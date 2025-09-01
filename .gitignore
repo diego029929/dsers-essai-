@@ -1,0 +1,15 @@
+# Ignorer les dépendances Node.js
+node_modules/
+
+# Fichier de configuration sensible
+.env
+
+# Dossiers de build
+dist/
+build/
+
+# Fichiers système macOS
+.DS_Store
+
+# Configs locales
+.vscode/
